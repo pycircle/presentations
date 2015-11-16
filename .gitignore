@@ -61,4 +61,5 @@ target/
 
 # our files
 pycircle.txt
+.DS_Store
 
